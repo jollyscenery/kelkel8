@@ -1,1 +1,1 @@
-print("Hello World")
+print("Saya adalah Daron selaku ketua dari kelompok 8")
